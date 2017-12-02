@@ -65,6 +65,8 @@ label {
     color: white;
 }
 
+
+/*Wanted to use this to keep the nav tabs at top right. The collapse feature needs two js plugins that I could not figure out.*/
 @media screen and (max-width: 768) and (min-width: 0px) {
     
 }
