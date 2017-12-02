@@ -57,9 +57,14 @@ li {
 }
 
 .col-md-4 {
-    padding-top: 45px;
+    margin-top: 4%;
+    margin-bottom: 10%;
 }
 
 label {
     color: white;
+}
+
+@media screen and (max-width: 768) and (min-width: 0px) {
+    
 }
